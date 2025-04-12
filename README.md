@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas 🐍
+### Olá! Eu sou o Lucas
 
 <!---
 <div>
